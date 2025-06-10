@@ -1,0 +1,10 @@
+Input,Value
+Paint usage per coat (g/m²),150
+Area to paint (m²),30
+Number of coats,2
+Paint cost per kg ($),25
+,
+Output,Value
+Total paint needed (grams),9000
+Total paint needed (kg),9
+Estimated cost ($),225
